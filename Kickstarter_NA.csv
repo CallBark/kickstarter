@@ -1,4 +1,4 @@
-usd_pledged,State,backers_count,Blurb length,Blurb caps,campaign length (deadline - launched at,decision timing (state changed - launched at),goal,Name Length,Name Caps,Category,Category (parent only),country,spotlight,staff_pick
+USD Pledged,State,Backers Count,Blurb Length,Blurb Caps,Campaign Length,Decision Timing,Goal,Name Length,Name Caps,Category,Category (parent only),Country,Spotlight,Staff Pick
 4618.0,1,61,107,4,2592000,2592000,3000,21,3,"dance/performances""",dance,US,TRUE,TRUE
 3461.0,0,52,135,13,2592000,2592000,20000,54,7,"food/drinks""",food,US,FALSE,TRUE
 0.0,0,0,95,10,2024373,2024373,15000,32,6,"food/drinks""",food,US,FALSE,FALSE
